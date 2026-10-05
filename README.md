@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Real-World Edge-Case API Error Dataset](products/real-world-edge-case-api-error-dataset/README.md) — $19.00 · [buy](https://buy.stripe.com/6oUfZi06GbnTeRB9wPawo0t)
 - [Hono.js New Contributor Onboarding Kit](products/hono-js-new-contributor-onboarding-kit/README.md) — $15.00 · [buy](https://buy.stripe.com/14A7sMdXw0JfbFpbEXawo0u)
 - [Curate and sell public API rate limits dataset for top 20 SaaS providers](products/curate-and-sell-public-api-rate-limits-dataset-for-top-20-sa/README.md) — $29.00 · [buy](https://buy.stripe.com/3cI6oI4mW8bHcJt8sLawo0v)
 - [Design and sell Remote Team Communication Effectiveness survey kit](products/design-and-sell-remote-team-communication-effectiveness-surv/README.md) — $19.00 · [buy](https://buy.stripe.com/dRm28saLk9fL7p99wPawo0w)
