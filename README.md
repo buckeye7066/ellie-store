@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Complex API Error Response Dataset for LLM Fine-Tuning](products/complex-api-error-response-dataset-for-llm-fine-tuning/README.md) — $49.00 · [buy](https://buy.stripe.com/00w7sM5r01Nj7p910jawo0i)
 - [TanStack Table Contributor Onboarding & Validation Utility](products/tanstack-table-contributor-onboarding-validation-utility/README.md) — $49.00 · [buy](https://buy.stripe.com/8x2cN68Dc3VreRBeR9awo0j)
 - [Niche AI Development Grants Research Brief 2026](products/niche-ai-development-grants-research-brief-2026/README.md) — $49.00 · [buy](https://buy.stripe.com/3cI28s6v43Vr8td24nawo0k)
 - [Vite-Plugin-SSR Contributor Onboarding & Architecture Map](products/vite-plugin-ssr-contributor-onboarding-architecture-map/README.md) — $150.00 · [buy](https://buy.stripe.com/4gM3cwcTsgId9xh24nawo0l)
