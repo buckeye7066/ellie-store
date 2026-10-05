@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Curate and sell public API rate limits dataset for top 20 SaaS providers](products/curate-and-sell-public-api-rate-limits-dataset-for-top-20-sa/README.md) — $29.00 · [buy](https://buy.stripe.com/3cI6oI4mW8bHcJt8sLawo0v)
 - [Design and sell Remote Team Communication Effectiveness survey kit](products/design-and-sell-remote-team-communication-effectiveness-surv/README.md) — $19.00 · [buy](https://buy.stripe.com/dRm28saLk9fL7p99wPawo0w)
 - [Build and sell Notion OKR tracking template](products/build-and-sell-notion-okr-tracking-template/README.md) — $12.00 · [buy](https://buy.stripe.com/28EeVebPo8bHfVF24nawo0x)
 - [Obsidian-to-Resume CLI Tool](products/obsidian-to-resume-cli-tool/README.md) — $12.00 · [buy](https://buy.stripe.com/9B6fZi7z8crXaBlgZhawo0y)
