@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Create Notion freelance invoicing template](products/create-notion-freelance-invoicing-template/README.md) — $12.00 · [buy](https://buy.stripe.com/7sYdRa3iS8bH10LgZhawo0D)
 - [Nonprofit Technology Adoption Survey Kit](products/nonprofit-technology-adoption-survey-kit/README.md) — $19.00 · [buy](https://buy.stripe.com/9B6fZi6v4dw138TgZhawo0E)
 - [Write Local LLM Agent Setup Guide](products/write-local-llm-agent-setup-guide/README.md) — $9.00 · [buy](https://buy.stripe.com/00w8wQaLk63zfVFbEXawo0F)
 - [Create Notion retrospective template pack](products/create-notion-retrospective-template-pack/README.md) — $12.00 · [buy](https://buy.stripe.com/dRmcN69Hg3Vr38T8sLawo0G)
