@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Obsidian-to-Resume CLI Tool](products/obsidian-to-resume-cli-tool/README.md) — $12.00 · [buy](https://buy.stripe.com/9B6fZi7z8crXaBlgZhawo0y)
 - [Create Remote Engineering Team Burnout Diagnostic Survey](products/create-remote-engineering-team-burnout-diagnostic-survey/README.md) — $19.00 · [buy](https://buy.stripe.com/aFa3cw7z863z6l510jawo0z)
 - [Create AI Implementation Readiness Survey Kit](products/create-ai-implementation-readiness-survey-kit/README.md) — $19.00 · [buy](https://buy.stripe.com/5kQdRa4mW0Jf8td5gzawo0A)
 - [Create Remote Work Productivity Survey for Tech Teams](products/create-remote-work-productivity-survey-for-tech-teams/README.md) — $19.00 · [buy](https://buy.stripe.com/3cI28s7z8bnTdNx24nawo0B)
