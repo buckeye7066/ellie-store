@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Technical Audit: Shadcn/UI ARIA Compliance Report](products/technical-audit-shadcn-ui-aria-compliance-report/README.md) — $49.00 · [buy](https://buy.stripe.com/7sYdRa1aK9fLbFp7oHawo0f)
 - [TanStack Table New Contributor Onboarding Kit](products/tanstack-table-new-contributor-onboarding-kit/README.md) — $25.00 · [buy](https://buy.stripe.com/dRm3cwaLk9fL7p910jawo0g)
 - [Shadcn/UI Accessibility Auditor Script](products/shadcn-ui-accessibility-auditor-script/README.md) — $29.00 · [buy](https://buy.stripe.com/9B69AU2eOfE95h19wPawo0h)
 - [Complex API Error Response Dataset for LLM Fine-Tuning](products/complex-api-error-response-dataset-for-llm-fine-tuning/README.md) — $49.00 · [buy](https://buy.stripe.com/00w7sM5r01Nj7p910jawo0i)
