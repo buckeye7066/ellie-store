@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Create whitelabel SOP template pack for medical clinic front desk](products/create-whitelabel-sop-template-pack-for-medical-clinic-front/README.md) — $79.00 · [buy](https://buy.stripe.com/7sY14o8Dc0Jf38T10jawo0M)
 - [Write and sell 3000-word whitepaper on AI-driven predictive maintenance for manufacturing SMBs](products/write-and-sell-3000-word-whitepaper-on-ai-driven-predictive-/README.md) — $9.00 · [buy](https://buy.stripe.com/6oU14o6v41NjfVF10jawo0L)
 - [Write and sell a 2500‑word guide on prompt‑engineering for LLM‑powered chatbots in e‑commerce](products/write-and-sell-a-2500-word-guide-on-prompt-engineering-for-l/README.md) — $9.00 · [buy](https://buy.stripe.com/14A00kdXw1Nj4cX5gzawo0K)
 - [Technical Audit: Shadcn/UI ARIA Compliance Report](products/technical-audit-shadcn-ui-aria-compliance-report/README.md) — $49.00 · [buy](https://buy.stripe.com/7sYdRa1aK9fLbFp7oHawo0f)
