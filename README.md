@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Offer a resume & cover letter rewrite service for software engineers](products/offer-a-resume-cover-letter-rewrite-service-for-software-eng/README.md) — $29.00 · [buy](https://buy.stripe.com/eVqcN6bPo2RneRB24nawo0P)
 - [Create vegan food brand kit](products/create-vegan-food-brand-kit/README.md) — $25.00 · [buy](https://buy.stripe.com/dRmaEY3iS4ZveRBaATawo0O)
 - [Write and sell a guide on prompt‑engineering for local LLMs](products/write-and-sell-a-guide-on-prompt-engineering-for-local-llms/README.md) — $9.00 · [buy](https://buy.stripe.com/cNicN6cTs3VraBlbEXawo0N)
 - [Create whitelabel SOP template pack for medical clinic front desk](products/create-whitelabel-sop-template-pack-for-medical-clinic-front/README.md) — $79.00 · [buy](https://buy.stripe.com/7sY14o8Dc0Jf38T10jawo0M)
