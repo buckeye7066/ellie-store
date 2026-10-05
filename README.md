@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Enterprise-SaaS API Authentication Error Dataset](products/enterprise-saas-api-authentication-error-dataset/README.md) — $19.99 · [buy](https://buy.stripe.com/bJe5kE3iSdw18td7oHawo0m)
 - [Axios Ecosystem Security & Bloat Auditor](products/axios-ecosystem-security-bloat-auditor/README.md) — $29.99 · [buy](https://buy.stripe.com/5kQ8wQg5EeA58tdfVdawo0n)
 - [100 Complex API Error Response Dataset for LLM Benchmarking](products/100-complex-api-error-response-dataset-for-llm-benchmarking/README.md) — $15.00 · [buy](https://buy.stripe.com/00wdRa4mWeA59xh7oHawo0o)
 - [500+ Edge-Case & Non-Standard API Error Payloads Dataset](products/500-edge-case-non-standard-api-error-payloads-dataset/README.md) — $29.99 · [buy](https://buy.stripe.com/7sYeVebPo8bH7p924nawo0p)
