@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Niche AI Development Grants Research Brief 2026](products/niche-ai-development-grants-research-brief-2026/README.md) — $49.00 · [buy](https://buy.stripe.com/3cI28s6v43Vr8td24nawo0k)
 - [Vite-Plugin-SSR Contributor Onboarding & Architecture Map](products/vite-plugin-ssr-contributor-onboarding-architecture-map/README.md) — $150.00 · [buy](https://buy.stripe.com/4gM3cwcTsgId9xh24nawo0l)
 - [Enterprise-SaaS API Authentication Error Dataset](products/enterprise-saas-api-authentication-error-dataset/README.md) — $19.99 · [buy](https://buy.stripe.com/bJe5kE3iSdw18td7oHawo0m)
 - [Axios Ecosystem Security & Bloat Auditor](products/axios-ecosystem-security-bloat-auditor/README.md) — $29.99 · [buy](https://buy.stripe.com/5kQ8wQg5EeA58tdfVdawo0n)
