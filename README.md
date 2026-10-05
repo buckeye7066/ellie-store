@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Build and sell Notion OKR tracking template](products/build-and-sell-notion-okr-tracking-template/README.md) — $12.00 · [buy](https://buy.stripe.com/28EeVebPo8bHfVF24nawo0x)
 - [Obsidian-to-Resume CLI Tool](products/obsidian-to-resume-cli-tool/README.md) — $12.00 · [buy](https://buy.stripe.com/9B6fZi7z8crXaBlgZhawo0y)
 - [Create Remote Engineering Team Burnout Diagnostic Survey](products/create-remote-engineering-team-burnout-diagnostic-survey/README.md) — $19.00 · [buy](https://buy.stripe.com/aFa3cw7z863z6l510jawo0z)
 - [Create AI Implementation Readiness Survey Kit](products/create-ai-implementation-readiness-survey-kit/README.md) — $19.00 · [buy](https://buy.stripe.com/5kQdRa4mW0Jf8td5gzawo0A)
