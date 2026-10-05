@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Axios Ecosystem Security & Bloat Auditor](products/axios-ecosystem-security-bloat-auditor/README.md) — $29.99 · [buy](https://buy.stripe.com/5kQ8wQg5EeA58tdfVdawo0n)
 - [100 Complex API Error Response Dataset for LLM Benchmarking](products/100-complex-api-error-response-dataset-for-llm-benchmarking/README.md) — $15.00 · [buy](https://buy.stripe.com/00wdRa4mWeA59xh7oHawo0o)
 - [500+ Edge-Case & Non-Standard API Error Payloads Dataset](products/500-edge-case-non-standard-api-error-payloads-dataset/README.md) — $29.99 · [buy](https://buy.stripe.com/7sYeVebPo8bH7p924nawo0p)
 - [TanStack Table Contributor Onboarding Accelerator Kit](products/tanstack-table-contributor-onboarding-accelerator-kit/README.md) — $49.00 · [buy](https://buy.stripe.com/9B6fZi9Hg9fL9xh38rawo0q)
