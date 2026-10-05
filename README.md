@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Standardized 'Local Dev Environment' SOP Kit](products/standardized-local-dev-environment-sop-kit/README.md) — $49.00 · [buy](https://buy.stripe.com/6oUcN6f1AbnTgZJeR9awo0r)
 - [Edge-Case API Error Dataset for LLM Benchmarking](products/edge-case-api-error-dataset-for-llm-benchmarking/README.md) — $15.00 · [buy](https://buy.stripe.com/8x26oIcTs8bHgZJdN5awo0s)
 - [Real-World Edge-Case API Error Dataset](products/real-world-edge-case-api-error-dataset/README.md) — $19.00 · [buy](https://buy.stripe.com/6oUfZi06GbnTeRB9wPawo0t)
 - [Hono.js New Contributor Onboarding Kit](products/hono-js-new-contributor-onboarding-kit/README.md) — $15.00 · [buy](https://buy.stripe.com/14A7sMdXw0JfbFpbEXawo0u)
