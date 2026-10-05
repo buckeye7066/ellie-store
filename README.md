@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Create Remote Engineering Team Burnout Diagnostic Survey](products/create-remote-engineering-team-burnout-diagnostic-survey/README.md) — $19.00 · [buy](https://buy.stripe.com/aFa3cw7z863z6l510jawo0z)
 - [Create AI Implementation Readiness Survey Kit](products/create-ai-implementation-readiness-survey-kit/README.md) — $19.00 · [buy](https://buy.stripe.com/5kQdRa4mW0Jf8td5gzawo0A)
 - [Create Remote Work Productivity Survey for Tech Teams](products/create-remote-work-productivity-survey-for-tech-teams/README.md) — $19.00 · [buy](https://buy.stripe.com/3cI28s7z8bnTdNx24nawo0B)
 - [Write remote work productivity research brief](products/write-remote-work-productivity-research-brief/README.md) — $49.00 · [buy](https://buy.stripe.com/14A5kEcTs8bH38T4cvawo0C)
