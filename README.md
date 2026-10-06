@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Compile US municipal broadband speeds CSV 2024](products/compile-us-municipal-broadband-speeds-csv-2024/README.md) — $29.00 · [buy](https://buy.stripe.com/cNi3cwbPocrX4cX5gzawo1j)
 - [Sell a fixed-scope audit of a public repository (attempt 14133)](products/sell-a-fixed-scope-audit-of-a-public-repository-attempt-1413/README.md) — $79.00 · [buy](https://buy.stripe.com/cNi28sdXwgId9xh5gzawo1i)
 - [Compile US Municipal Recycling Rates CSV 2024](products/compile-us-municipal-recycling-rates-csv-2024/README.md) — $29.00 · [buy](https://buy.stripe.com/5kQcN64mW3VrbFpeR9awo1h)
 - [Compile and sell US public EV charging utilization CSV 2024](products/compile-and-sell-us-public-ev-charging-utilization-csv-2024/README.md) — $29.00 · [buy](https://buy.stripe.com/fZueVe4mW63zdNxfVdawo1g)
