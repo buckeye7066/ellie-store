@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Create and sell short course on 'Automating Notion with API and Python'](products/create-and-sell-short-course-on-automating-notion-with-api-a/README.md) — $39.00 · [buy](https://buy.stripe.com/fZu6oIdXw3Vr4cXdN5awo1d)
 - [Create and sell 'Obsidian for Academic Research' mini-course](products/create-and-sell-obsidian-for-academic-research-mini-course/README.md) — $39.00 · [buy](https://buy.stripe.com/4gM3cw9Hg4ZvcJtgZhawo1c)
 - [Create and sell Meeting Notes to Action Items Template Pack](products/create-and-sell-meeting-notes-to-action-items-template-pack/README.md) — $9.00 · [buy](https://buy.stripe.com/eVq5kE7z8dw124P38rawo1b)
 - [Create and sell a short course on 'Automating Excel with Python Pandas'](products/create-and-sell-a-short-course-on-automating-excel-with-pyth/README.md) — $39.00 · [buy](https://buy.stripe.com/eVq14oaLk9fLdNx38rawo1a)
