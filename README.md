@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Create naming and brand kit starter for tech startups](products/create-naming-and-brand-kit-starter-for-tech-startups/README.md) — $25.00 · [buy](https://buy.stripe.com/5kQfZi7z8ajP38TaATawo0U)
 - [Create engineering meeting notes template](products/create-engineering-meeting-notes-template/README.md) — $9.00 · [buy](https://buy.stripe.com/fZu8wQcTs4Zv38T9wPawo0T)
 - [Offer Resume & Cover Letter Rewrite Service](products/offer-resume-cover-letter-rewrite-service/README.md) — $29.00 · [buy](https://buy.stripe.com/cNi7sM4mWdw1gZJaATawo0S)
 - [Build a startup naming & brand voice kit](products/build-a-startup-naming-brand-voice-kit/README.md) — $25.00 · [buy](https://buy.stripe.com/aFaaEYbPobnTgZJ6kDawo0R)
