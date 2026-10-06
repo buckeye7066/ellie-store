@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Survey pack: [DESIGN] Prepare feedback survey for data contributors workshop](products/survey-pack-design-prepare-feedback-survey-for-data-contribu/README.md) — $19.00 · [buy](https://buy.stripe.com/7sY00k8Dc2RneRBfVdawo0Z)
 - [Survey pack: TR-012: Build Athlete Recruiting Questionnaire](products/survey-pack-tr-012-build-athlete-recruiting-questionnaire/README.md) — $19.00 · [buy](https://buy.stripe.com/3cI9AU3iSbnTfVFfVdawo0Y)
 - [List Naming and Brand Kit Starter on Gumroad](products/list-naming-and-brand-kit-starter-on-gumroad/README.md) — $25.00 · [buy](https://buy.stripe.com/fZu3cw4mW8bH4cXfVdawo0X)
 - [Sell Meeting Notes to Action Items Template Pack on Etsy](products/sell-meeting-notes-to-action-items-template-pack-on-etsy/README.md) — $9.00 · [buy](https://buy.stripe.com/8x2bJ26v4gIddNx6kDawo0W)
