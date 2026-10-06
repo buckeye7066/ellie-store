@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Build and sell Prompt Engineering for Legal Professionals course](products/build-and-sell-prompt-engineering-for-legal-professionals-co/README.md) — $39.00 · [buy](https://buy.stripe.com/cNi3cwcTs1Nj5h14cvawo19)
 - [Create and sell whitelabel social media content calendar pack for indie authors](products/create-and-sell-whitelabel-social-media-content-calendar-pac/README.md) — $79.00 · [buy](https://buy.stripe.com/dRmaEYbPodw1dNxfVdawo18)
 - [Whitelabel Notion QBR template pack for consulting firms](products/whitelabel-notion-qbr-template-pack-for-consulting-firms/README.md) — $79.00 · [buy](https://buy.stripe.com/dRm5kEaLk2Rn8td4cvawo17)
 - [Create and sell Whitelabel Project Kickoff Checklist Pack for Agile Teams](products/create-and-sell-whitelabel-project-kickoff-checklist-pack-fo/README.md) — $79.00 · [buy](https://buy.stripe.com/8x26oI8Dc63zdNx5gzawo16)
