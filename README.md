@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Sell Meeting Notes to Action Items Template Pack on Etsy](products/sell-meeting-notes-to-action-items-template-pack-on-etsy/README.md) — $9.00 · [buy](https://buy.stripe.com/8x2bJ26v4gIddNx6kDawo0W)
 - [Offer Resume and Cover Letter Rewrite Pathway via Shopify](products/offer-resume-and-cover-letter-rewrite-pathway-via-shopify/README.md) — $29.00 · [buy](https://buy.stripe.com/5kQfZi4mWbnT24P5gzawo0V)
 - [Create naming and brand kit starter for tech startups](products/create-naming-and-brand-kit-starter-for-tech-startups/README.md) — $25.00 · [buy](https://buy.stripe.com/5kQfZi7z8ajP38TaATawo0U)
 - [Create engineering meeting notes template](products/create-engineering-meeting-notes-template/README.md) — $9.00 · [buy](https://buy.stripe.com/fZu8wQcTs4Zv38T9wPawo0T)
