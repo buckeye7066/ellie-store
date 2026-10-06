@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Sell a fixed-scope audit of a public repository (attempt 14133)](products/sell-a-fixed-scope-audit-of-a-public-repository-attempt-1413/README.md) — $79.00 · [buy](https://buy.stripe.com/cNi28sdXwgId9xh5gzawo1i)
 - [Compile US Municipal Recycling Rates CSV 2024](products/compile-us-municipal-recycling-rates-csv-2024/README.md) — $29.00 · [buy](https://buy.stripe.com/5kQcN64mW3VrbFpeR9awo1h)
 - [Compile and sell US public EV charging utilization CSV 2024](products/compile-and-sell-us-public-ev-charging-utilization-csv-2024/README.md) — $29.00 · [buy](https://buy.stripe.com/fZueVe4mW63zdNxfVdawo1g)
 - [Create and sell short course on 'Prompt Engineering for Legal Professionals'](products/create-and-sell-short-course-on-prompt-engineering-for-legal/README.md) — $39.00 · [buy](https://buy.stripe.com/cNi14odXwbnT9xh6kDawo1e)
