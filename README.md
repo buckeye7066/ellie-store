@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Complete and list Resume & Cover Letter Rewrite Service Pack](products/complete-and-list-resume-cover-letter-rewrite-service-pack/README.md) — $29.00 · [buy](https://buy.stripe.com/aFacN64mWcrX7p95gzawo14)
 - [Update naming pathway with brand voice templates and blog series](products/update-naming-pathway-with-brand-voice-templates-and-blog-se/README.md) — $25.00 · [buy](https://buy.stripe.com/00w7sM5r077DgZJ38rawo13)
 - [Survey pack: Review Survey Research Questions / Hypotheses](products/survey-pack-review-survey-research-questions-hypotheses/README.md) — $19.00 · [buy](https://buy.stripe.com/28EeVe06G8bH24P7oHawo11)
 - [Curate public domain historical newspaper headlines dataset (1900-1920)](products/curate-public-domain-historical-newspaper-headlines-dataset-/README.md) — $59.00 · [buy](https://buy.stripe.com/eVq6oI3iS2RngZJ24nawo10)
