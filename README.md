@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Compile and sell US public EV charging utilization CSV 2024](products/compile-and-sell-us-public-ev-charging-utilization-csv-2024/README.md) — $29.00 · [buy](https://buy.stripe.com/fZueVe4mW63zdNxfVdawo1g)
 - [Create and sell short course on 'Prompt Engineering for Legal Professionals'](products/create-and-sell-short-course-on-prompt-engineering-for-legal/README.md) — $39.00 · [buy](https://buy.stripe.com/cNi14odXwbnT9xh6kDawo1e)
 - [Create and sell short course on 'Automating Notion with API and Python'](products/create-and-sell-short-course-on-automating-notion-with-api-a/README.md) — $39.00 · [buy](https://buy.stripe.com/fZu6oIdXw3Vr4cXdN5awo1d)
 - [Create and sell 'Obsidian for Academic Research' mini-course](products/create-and-sell-obsidian-for-academic-research-mini-course/README.md) — $39.00 · [buy](https://buy.stripe.com/4gM3cw9Hg4ZvcJtgZhawo1c)
