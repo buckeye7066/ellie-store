@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Create codebase explainer for the FastAPI repository](products/create-codebase-explainer-for-the-fastapi-repository/README.md) — $19.00 · [buy](https://buy.stripe.com/7sY14o8DcgId9xh6kDawo1n)
 - [Repo-to-Onboarding-Kit: Codebase Explainers Sold Back to the Maintainer (attempt 14117)](products/repo-to-onboarding-kit-codebase-explainers-sold-back-to-the-/README.md) — $19.00 · [buy](https://buy.stripe.com/fZu6oIcTs3VrfVF4cvawo1m)
 - [Create US Municipal Park Acreage CSV 2024](products/create-us-municipal-park-acreage-csv-2024/README.md) — $29.00 · [buy](https://buy.stripe.com/bJeeVe06GcrXdNx8sLawo1l)
 - [Deploy Ready-to-Use FAQ Chatbot for Local Service Businesses](products/deploy-ready-to-use-faq-chatbot-for-local-service-businesses/README.md) — $79.00 · [buy](https://buy.stripe.com/3cI6oI6v477DaBl4cvawo1k)
