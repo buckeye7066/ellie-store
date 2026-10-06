@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Curate public domain historical newspaper headlines dataset (1900-1920)](products/curate-public-domain-historical-newspaper-headlines-dataset-/README.md) — $59.00 · [buy](https://buy.stripe.com/eVq6oI3iS2RngZJ24nawo10)
 - [Survey pack: [DESIGN] Prepare feedback survey for data contributors workshop](products/survey-pack-design-prepare-feedback-survey-for-data-contribu/README.md) — $19.00 · [buy](https://buy.stripe.com/7sY00k8Dc2RneRBfVdawo0Z)
 - [Survey pack: TR-012: Build Athlete Recruiting Questionnaire](products/survey-pack-tr-012-build-athlete-recruiting-questionnaire/README.md) — $19.00 · [buy](https://buy.stripe.com/3cI9AU3iSbnTfVFfVdawo0Y)
 - [List Naming and Brand Kit Starter on Gumroad](products/list-naming-and-brand-kit-starter-on-gumroad/README.md) — $25.00 · [buy](https://buy.stripe.com/fZu3cw4mW8bH4cXfVdawo0X)
