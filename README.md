@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Offer Resume & Cover Letter Rewrite Service](products/offer-resume-cover-letter-rewrite-service/README.md) — $29.00 · [buy](https://buy.stripe.com/cNi7sM4mWdw1gZJaATawo0S)
 - [Build a startup naming & brand voice kit](products/build-a-startup-naming-brand-voice-kit/README.md) — $25.00 · [buy](https://buy.stripe.com/aFaaEYbPobnTgZJ6kDawo0R)
 - [Create a meeting notes to action items template for remote teams](products/create-a-meeting-notes-to-action-items-template-for-remote-t/README.md) — $9.00 · [buy](https://buy.stripe.com/eVqeVecTs3Vr24PgZhawo0Q)
 - [Offer a resume & cover letter rewrite service for software engineers](products/offer-a-resume-cover-letter-rewrite-service-for-software-eng/README.md) — $29.00 · [buy](https://buy.stripe.com/eVqcN6bPo2RneRB24nawo0P)
