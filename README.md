@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Deploy Ready-to-Use FAQ Chatbot for Local Service Businesses](products/deploy-ready-to-use-faq-chatbot-for-local-service-businesses/README.md) — $79.00 · [buy](https://buy.stripe.com/3cI6oI6v477DaBl4cvawo1k)
 - [Compile US municipal broadband speeds CSV 2024](products/compile-us-municipal-broadband-speeds-csv-2024/README.md) — $29.00 · [buy](https://buy.stripe.com/cNi3cwbPocrX4cX5gzawo1j)
 - [Sell a fixed-scope audit of a public repository (attempt 14133)](products/sell-a-fixed-scope-audit-of-a-public-repository-attempt-1413/README.md) — $79.00 · [buy](https://buy.stripe.com/cNi28sdXwgId9xh5gzawo1i)
 - [Compile US Municipal Recycling Rates CSV 2024](products/compile-us-municipal-recycling-rates-csv-2024/README.md) — $29.00 · [buy](https://buy.stripe.com/5kQcN64mW3VrbFpeR9awo1h)
