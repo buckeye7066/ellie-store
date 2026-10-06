@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Survey pack: Review Survey Research Questions / Hypotheses](products/survey-pack-review-survey-research-questions-hypotheses/README.md) — $19.00 · [buy](https://buy.stripe.com/28EeVe06G8bH24P7oHawo11)
 - [Curate public domain historical newspaper headlines dataset (1900-1920)](products/curate-public-domain-historical-newspaper-headlines-dataset-/README.md) — $59.00 · [buy](https://buy.stripe.com/eVq6oI3iS2RngZJ24nawo10)
 - [Survey pack: [DESIGN] Prepare feedback survey for data contributors workshop](products/survey-pack-design-prepare-feedback-survey-for-data-contribu/README.md) — $19.00 · [buy](https://buy.stripe.com/7sY00k8Dc2RneRBfVdawo0Z)
 - [Survey pack: TR-012: Build Athlete Recruiting Questionnaire](products/survey-pack-tr-012-build-athlete-recruiting-questionnaire/README.md) — $19.00 · [buy](https://buy.stripe.com/3cI9AU3iSbnTfVFfVdawo0Y)
