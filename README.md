@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Survey pack: TR-012: Build Athlete Recruiting Questionnaire](products/survey-pack-tr-012-build-athlete-recruiting-questionnaire/README.md) — $19.00 · [buy](https://buy.stripe.com/3cI9AU3iSbnTfVFfVdawo0Y)
 - [List Naming and Brand Kit Starter on Gumroad](products/list-naming-and-brand-kit-starter-on-gumroad/README.md) — $25.00 · [buy](https://buy.stripe.com/fZu3cw4mW8bH4cXfVdawo0X)
 - [Sell Meeting Notes to Action Items Template Pack on Etsy](products/sell-meeting-notes-to-action-items-template-pack-on-etsy/README.md) — $9.00 · [buy](https://buy.stripe.com/8x2bJ26v4gIddNx6kDawo0W)
 - [Offer Resume and Cover Letter Rewrite Pathway via Shopify](products/offer-resume-and-cover-letter-rewrite-pathway-via-shopify/README.md) — $29.00 · [buy](https://buy.stripe.com/5kQfZi4mWbnT24P5gzawo0V)
