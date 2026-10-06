@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Create and sell a short course on 'Automating Excel with Python Pandas'](products/create-and-sell-a-short-course-on-automating-excel-with-pyth/README.md) — $39.00 · [buy](https://buy.stripe.com/eVq14oaLk9fLdNx38rawo1a)
 - [Build and sell Prompt Engineering for Legal Professionals course](products/build-and-sell-prompt-engineering-for-legal-professionals-co/README.md) — $39.00 · [buy](https://buy.stripe.com/cNi3cwcTs1Nj5h14cvawo19)
 - [Create and sell whitelabel social media content calendar pack for indie authors](products/create-and-sell-whitelabel-social-media-content-calendar-pac/README.md) — $79.00 · [buy](https://buy.stripe.com/dRmaEYbPodw1dNxfVdawo18)
 - [Whitelabel Notion QBR template pack for consulting firms](products/whitelabel-notion-qbr-template-pack-for-consulting-firms/README.md) — $79.00 · [buy](https://buy.stripe.com/dRm5kEaLk2Rn8td4cvawo17)
