@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Create and sell US rural broadband penetration dataset 2024-2025](products/create-and-sell-us-rural-broadband-penetration-dataset-2024-/README.md) — $29.00 · [buy](https://buy.stripe.com/bJe00kg5EeA510L5gzawo1r)
 - [Create SvelteKit codebase explainer](products/create-sveltekit-codebase-explainer/README.md) — $19.00 · [buy](https://buy.stripe.com/3cIdRa1aK0Jf5h14cvawo1q)
 - [Create codebase explainer for Express.js](products/create-codebase-explainer-for-express-js/README.md) — $19.00 · [buy](https://buy.stripe.com/14A4gAf1AcrXaBl4cvawo1p)
 - [Create and sell a codebase explainer for the FastAPI repository](products/create-and-sell-a-codebase-explainer-for-the-fastapi-reposit/README.md) — $19.00 · [buy](https://buy.stripe.com/8x2bJ28DcgIdgZJ24nawo1o)
