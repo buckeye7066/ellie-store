@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Write and sell a Notion template pack for sprint planning](products/write-and-sell-a-notion-template-pack-for-sprint-planning/README.md) — $9.00 · [buy](https://buy.stripe.com/3cIcN68DcfE9dNx24nawo1D)
 - [Offer resume and cover-letter rewrite service for tech professionals](products/offer-resume-and-cover-letter-rewrite-service-for-tech-profe/README.md) — $29.00 · [buy](https://buy.stripe.com/28E8wQ6v477D24P6kDawo1C)
 - [Write and sell research brief on Retrieval-Augmented Generation for domain-specific chatbots](products/write-and-sell-research-brief-on-retrieval-augmented-generat/README.md) — $9.00 · [buy](https://buy.stripe.com/eVq8wQdXw2RnfVF10jawo1B)
 - [Create Notion Finance Dashboard Template](products/create-notion-finance-dashboard-template/README.md) — $12.00 · [buy](https://buy.stripe.com/8x200k3iS63z9xh5gzawo1A)
