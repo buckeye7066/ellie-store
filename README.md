@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Build and sell a VS Code extension that auto-generates JSDoc comments from TypeScript code](products/build-and-sell-a-vs-code-extension-that-auto-generates-jsdoc/README.md) — $12.00 · [buy](https://buy.stripe.com/28E7sMg5E8bHdNx38rawo1w)
 - [Design and sell Remote Work Productivity Survey Kit for Distributed Teams](products/design-and-sell-remote-work-productivity-survey-kit-for-dist/README.md) — $19.00 · [buy](https://buy.stripe.com/28E7sM3iS9fLbFpdN5awo1v)
 - [Write and sell research brief on 'Multi-modal LLMs for medical imaging triage'](products/write-and-sell-research-brief-on-multi-modal-llms-for-medica/README.md) — $49.00 · [buy](https://buy.stripe.com/9B6eVe3iSajPdNx38rawo1u)
 - [Build and sell a regex snippet pack for log parsing](products/build-and-sell-a-regex-snippet-pack-for-log-parsing/README.md) — $12.00 · [buy](https://buy.stripe.com/cNi14obPofE98tddN5awo1t)
