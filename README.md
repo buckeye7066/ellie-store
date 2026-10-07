@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Design and sell Remote Work Productivity Survey Kit for Distributed Teams](products/design-and-sell-remote-work-productivity-survey-kit-for-dist/README.md) — $19.00 · [buy](https://buy.stripe.com/28E7sM3iS9fLbFpdN5awo1v)
 - [Write and sell research brief on 'Multi-modal LLMs for medical imaging triage'](products/write-and-sell-research-brief-on-multi-modal-llms-for-medica/README.md) — $49.00 · [buy](https://buy.stripe.com/9B6eVe3iSajPdNx38rawo1u)
 - [Build and sell a regex snippet pack for log parsing](products/build-and-sell-a-regex-snippet-pack-for-log-parsing/README.md) — $12.00 · [buy](https://buy.stripe.com/cNi14obPofE98tddN5awo1t)
 - [Build and sell security-header Chrome extension](products/build-and-sell-security-header-chrome-extension/README.md) — $12.00 · [buy](https://buy.stripe.com/cNidRa1aK8bH5h19wPawo1s)
