@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Build and sell fastschema CSV validation package](products/build-and-sell-fastschema-csv-validation-package/README.md) — $12.00 · [buy](https://buy.stripe.com/eVq5kE7z877DaBl10jawo1z)
 - [Design and sell Post-Event Feedback Survey Kit](products/design-and-sell-post-event-feedback-survey-kit/README.md) — $9.00 · [buy](https://buy.stripe.com/8x214oaLk77DaBl24nawo1y)
 - [Create and sell Employee Onboarding Survey Kit](products/create-and-sell-employee-onboarding-survey-kit/README.md) — $19.00 · [buy](https://buy.stripe.com/28E7sM9HgeA5eRB38rawo1x)
 - [Build and sell a VS Code extension that auto-generates JSDoc comments from TypeScript code](products/build-and-sell-a-vs-code-extension-that-auto-generates-jsdoc/README.md) — $12.00 · [buy](https://buy.stripe.com/28E7sMg5E8bHdNx38rawo1w)
