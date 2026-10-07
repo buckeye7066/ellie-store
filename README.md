@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Write and sell research brief on Retrieval-Augmented Generation for domain-specific chatbots](products/write-and-sell-research-brief-on-retrieval-augmented-generat/README.md) — $9.00 · [buy](https://buy.stripe.com/eVq8wQdXw2RnfVF10jawo1B)
 - [Create Notion Finance Dashboard Template](products/create-notion-finance-dashboard-template/README.md) — $12.00 · [buy](https://buy.stripe.com/8x200k3iS63z9xh5gzawo1A)
 - [Build and sell fastschema CSV validation package](products/build-and-sell-fastschema-csv-validation-package/README.md) — $12.00 · [buy](https://buy.stripe.com/eVq5kE7z877DaBl10jawo1z)
 - [Design and sell Post-Event Feedback Survey Kit](products/design-and-sell-post-event-feedback-survey-kit/README.md) — $9.00 · [buy](https://buy.stripe.com/8x214oaLk77DaBl24nawo1y)
