@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Write and sell research brief on 'Multi-modal LLMs for medical imaging triage'](products/write-and-sell-research-brief-on-multi-modal-llms-for-medica/README.md) — $49.00 · [buy](https://buy.stripe.com/9B6eVe3iSajPdNx38rawo1u)
 - [Build and sell a regex snippet pack for log parsing](products/build-and-sell-a-regex-snippet-pack-for-log-parsing/README.md) — $12.00 · [buy](https://buy.stripe.com/cNi14obPofE98tddN5awo1t)
 - [Build and sell security-header Chrome extension](products/build-and-sell-security-header-chrome-extension/README.md) — $12.00 · [buy](https://buy.stripe.com/cNidRa1aK8bH5h19wPawo1s)
 - [Create and sell US rural broadband penetration dataset 2024-2025](products/create-and-sell-us-rural-broadband-penetration-dataset-2024-/README.md) — $29.00 · [buy](https://buy.stripe.com/bJe00kg5EeA510L5gzawo1r)
