@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Create SvelteKit codebase explainer](products/create-sveltekit-codebase-explainer/README.md) — $19.00 · [buy](https://buy.stripe.com/3cIdRa1aK0Jf5h14cvawo1q)
 - [Create codebase explainer for Express.js](products/create-codebase-explainer-for-express-js/README.md) — $19.00 · [buy](https://buy.stripe.com/14A4gAf1AcrXaBl4cvawo1p)
 - [Create and sell a codebase explainer for the FastAPI repository](products/create-and-sell-a-codebase-explainer-for-the-fastapi-reposit/README.md) — $19.00 · [buy](https://buy.stripe.com/8x2bJ28DcgIdgZJ24nawo1o)
 - [Create codebase explainer for the FastAPI repository](products/create-codebase-explainer-for-the-fastapi-repository/README.md) — $19.00 · [buy](https://buy.stripe.com/7sY14o8DcgId9xh6kDawo1n)
