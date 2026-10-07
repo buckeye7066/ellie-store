@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Build and sell a regex snippet pack for log parsing](products/build-and-sell-a-regex-snippet-pack-for-log-parsing/README.md) — $12.00 · [buy](https://buy.stripe.com/cNi14obPofE98tddN5awo1t)
 - [Build and sell security-header Chrome extension](products/build-and-sell-security-header-chrome-extension/README.md) — $12.00 · [buy](https://buy.stripe.com/cNidRa1aK8bH5h19wPawo1s)
 - [Create and sell US rural broadband penetration dataset 2024-2025](products/create-and-sell-us-rural-broadband-penetration-dataset-2024-/README.md) — $29.00 · [buy](https://buy.stripe.com/bJe00kg5EeA510L5gzawo1r)
 - [Create SvelteKit codebase explainer](products/create-sveltekit-codebase-explainer/README.md) — $19.00 · [buy](https://buy.stripe.com/3cIdRa1aK0Jf5h14cvawo1q)
