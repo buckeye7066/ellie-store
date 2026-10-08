@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Produce a whitelabel market analysis report for EV charging stations](products/produce-a-whitelabel-market-analysis-report-for-ev-charging-/README.md) — $79.00 · [buy](https://buy.stripe.com/eVqaEY8Dc63zgZJ7oHawo1M)
 - [Create B2B SaaS churn prediction survey kit](products/create-b2b-saas-churn-prediction-survey-kit/README.md) — $19.00 · [buy](https://buy.stripe.com/28EcN61aKbnT7p938rawo1L)
 - [Compile dataset of AI-generated art platform usage stats Q3 2024](products/compile-dataset-of-ai-generated-art-platform-usage-stats-q3-/README.md) — $59.00 · [buy](https://buy.stripe.com/5kQcN67z863zfVFcJ1awo1K)
 - [Create AI Impact Survey for SaaS Product Managers](products/create-ai-impact-survey-for-saas-product-managers/README.md) — $19.00 · [buy](https://buy.stripe.com/3cI8wQ8Dc9fL9xh5gzawo1J)
