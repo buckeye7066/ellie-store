@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Compile Cleaned US Clinical Trials Dataset 2020‑2024](products/compile-cleaned-us-clinical-trials-dataset-2020-2024/README.md) — $29.00 · [buy](https://buy.stripe.com/eVq28s8Dc1NjaBlfVdawo1X)
 - [Compile and sell cleaned Global Wind Energy Capacity dataset 2020‑2023](products/compile-and-sell-cleaned-global-wind-energy-capacity-dataset/README.md) — $29.00 · [buy](https://buy.stripe.com/4gMfZi7z8gId24P5gzawo1W)
 - [Create and sell a short video course on 'Automating Excel with Python and OpenPyXL'](products/create-and-sell-a-short-video-course-on-automating-excel-wit/README.md) — $39.00 · [buy](https://buy.stripe.com/eVqbJ23iS77DdNx6kDawo1T)
 - [Create and sell short video course 'Fine‑tuning LLMs with LoRA for domain adaptation'](products/create-and-sell-short-video-course-fine-tuning-llms-with-lor/README.md) — $39.00 · [buy](https://buy.stripe.com/00w14o5r0crXbFpgZhawo1S)
