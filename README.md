@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Create a white-label market research brief on AI adoption in healthcare](products/create-a-white-label-market-research-brief-on-ai-adoption-in/README.md) — $79.00 · [buy](https://buy.stripe.com/cNi4gAbPo63zgZJ7oHawo20)
 - [Compile and sell cleaned dataset of global AI research paper abstracts 2020‑2024](products/compile-and-sell-cleaned-dataset-of-global-ai-research-paper/README.md) — $29.00 · [buy](https://buy.stripe.com/eVq9AU9Hg77DdNxdN5awo1Z)
 - [Compile Global EV Charging Stations Dataset 2020‑2023](products/compile-global-ev-charging-stations-dataset-2020-2023/README.md) — $29.00 · [buy](https://buy.stripe.com/9B6bJ23iS63zdNxbEXawo1Y)
 - [Compile Cleaned US Clinical Trials Dataset 2020‑2024](products/compile-cleaned-us-clinical-trials-dataset-2020-2024/README.md) — $29.00 · [buy](https://buy.stripe.com/eVq28s8Dc1NjaBlfVdawo1X)
