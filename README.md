@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Create AI Ethics Compliance Checklist for Health Tech Startups](products/create-ai-ethics-compliance-checklist-for-health-tech-startu/README.md) — $19.00 · [buy](https://buy.stripe.com/3cI8wQ5r063zdNxcJ1awo1I)
 - [Create AI adoption survey kit for small businesses](products/create-ai-adoption-survey-kit-for-small-businesses/README.md) — $9.00 · [buy](https://buy.stripe.com/cNi6oI1aKajP24P38rawo1G)
 - [Create meeting notes to action items template pack](products/create-meeting-notes-to-action-items-template-pack/README.md) — $9.00 · [buy](https://buy.stripe.com/5kQbJ2bPo0JfgZJbEXawo1F)
 - [Whitelabel pack of 3 Canva social media templates for indie game developers](products/whitelabel-pack-of-3-canva-social-media-templates-for-indie-/README.md) — $79.00 · [buy](https://buy.stripe.com/14AdRadXw0JfeRBfVdawo1E)
