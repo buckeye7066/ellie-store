@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Create and sell a short video course on 'Automating Excel with Python and OpenPyXL'](products/create-and-sell-a-short-video-course-on-automating-excel-wit/README.md) — $39.00 · [buy](https://buy.stripe.com/eVqbJ23iS77DdNx6kDawo1T)
 - [Create and sell short video course 'Fine‑tuning LLMs with LoRA for domain adaptation'](products/create-and-sell-short-video-course-fine-tuning-llms-with-lor/README.md) — $39.00 · [buy](https://buy.stripe.com/00w14o5r0crXbFpgZhawo1S)
 - [Create and sell short video course 'Interactive Data Dashboards with Plotly Dash'](products/create-and-sell-short-video-course-interactive-data-dashboar/README.md) — $39.00 · [buy](https://buy.stripe.com/4gM9AU5r02Rn9xhgZhawo1R)
 - [Create and sell a short video course on Prompt Engineering for Developers on Udemy](products/create-and-sell-a-short-video-course-on-prompt-engineering-f/README.md) — $39.00 · [buy](https://buy.stripe.com/7sY9AU6v43VrbFp24nawo1Q)
