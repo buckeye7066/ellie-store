@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Conduct and sell a lightweight security audit of the 'express-validator' npm package](products/conduct-and-sell-a-lightweight-security-audit-of-the-express/README.md) — $79.00 · [buy](https://buy.stripe.com/dRmdRa5r077DaBl38rawo23)
 - [Write a codebase explainer for FlexFactor](products/write-a-codebase-explainer-for-flexfactor/README.md) — $19.00 · [buy](https://buy.stripe.com/eVqdRaf1A77D9xh6kDawo21)
 - [Create a white-label market research brief on AI adoption in healthcare](products/create-a-white-label-market-research-brief-on-ai-adoption-in/README.md) — $79.00 · [buy](https://buy.stripe.com/cNi4gAbPo63zgZJ7oHawo20)
 - [Compile and sell cleaned dataset of global AI research paper abstracts 2020‑2024](products/compile-and-sell-cleaned-dataset-of-global-ai-research-paper/README.md) — $29.00 · [buy](https://buy.stripe.com/eVq9AU9Hg77DdNxdN5awo1Z)
