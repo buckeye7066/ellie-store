@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Write and submit a 900-word article on 'LLM Prompt Caching Techniques' to Towards Data Science](products/write-and-submit-a-900-word-article-on-llm-prompt-caching-te/README.md) — $9.00 · [buy](https://buy.stripe.com/eVq28sbPodw17p910jawo2h)
 - [Create and sell a Regex Snippet Pack for Log Analysis](products/create-and-sell-a-regex-snippet-pack-for-log-analysis/README.md) — $12.00 · [buy](https://buy.stripe.com/bJe28saLk4Zv7p9gZhawo2g)
 - [Create Freelancer Tax Preparation Survey Kit](products/create-freelancer-tax-preparation-survey-kit/README.md) — $19.00 · [buy](https://buy.stripe.com/eVq3cw5r02RncJt5gzawo2f)
 - [Build a reusable GitHub Actions workflow template pack for CI/CD](products/build-a-reusable-github-actions-workflow-template-pack-for-c/README.md) — $12.00 · [buy](https://buy.stripe.com/6oUbJ2g5EcrXbFpbEXawo2e)
