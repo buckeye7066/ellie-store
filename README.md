@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Create Freelancer Tax Preparation Survey Kit](products/create-freelancer-tax-preparation-survey-kit/README.md) — $19.00 · [buy](https://buy.stripe.com/eVq3cw5r02RncJt5gzawo2f)
 - [Build a reusable GitHub Actions workflow template pack for CI/CD](products/build-a-reusable-github-actions-workflow-template-pack-for-c/README.md) — $12.00 · [buy](https://buy.stripe.com/6oUbJ2g5EcrXbFpbEXawo2e)
 - [Write research brief on AI-driven quantum computing market 2024-2026](products/write-research-brief-on-ai-driven-quantum-computing-market-2/README.md) — $49.00 · [buy](https://buy.stripe.com/14A3cwcTs63z5h1cJ1awo2d)
 - [Build OpenAPI-to-Postman CLI converter](products/build-openapi-to-postman-cli-converter/README.md) — $12.00 · [buy](https://buy.stripe.com/7sY9AUcTscrX38TaATawo2c)
