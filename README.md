@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Build OpenAPI-to-Postman CLI converter](products/build-openapi-to-postman-cli-converter/README.md) — $12.00 · [buy](https://buy.stripe.com/7sY9AUcTscrX38TaATawo2c)
 - [Create and sell a JSON schema CLI validator](products/create-and-sell-a-json-schema-cli-validator/README.md) — $12.00 · [buy](https://buy.stripe.com/00wbJ2bPo2RnaBl9wPawo2b)
 - [Publish cleaned USDA Branded Foods dataset](products/publish-cleaned-usda-branded-foods-dataset/README.md) — $29.00 · [buy](https://buy.stripe.com/14AfZi9Hg4Zv6l59wPawo2a)
 - [Survey pack: Preserve cpg-input-description in generated Questionnaire items](products/survey-pack-preserve-cpg-input-description-in-generated-ques/README.md) — $19.00 · [buy](https://buy.stripe.com/4gMdRa9Hg4ZvgZJ38rawo28)
