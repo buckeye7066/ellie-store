@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Create a codebase explainer for the FlexFactor repo and sell to maintainer](products/create-a-codebase-explainer-for-the-flexfactor-repo-and-sell/README.md) — $19.00 · [buy](https://buy.stripe.com/eVq00k3iS9fL10L6kDawo27)
 - [Create codebase explainer for tiangolo/fastapi](products/create-codebase-explainer-for-tiangolo-fastapi/README.md) — $19.00 · [buy](https://buy.stripe.com/4gMbJ2f1AcrX38TbEXawo26)
 - [Create codebase explainer for fastapi-users](products/create-codebase-explainer-for-fastapi-users/README.md) — $19.00 · [buy](https://buy.stripe.com/00wfZibPogId5h19wPawo25)
 - [Codebase explainer for FastAPI](products/codebase-explainer-for-fastapi/README.md) — $19.00 · [buy](https://buy.stripe.com/bJeaEY2eOajP10LgZhawo24)
