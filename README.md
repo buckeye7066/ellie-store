@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Write and sell Prompt Engineering for Customer Support Chatbots guide](products/write-and-sell-prompt-engineering-for-customer-support-chatb/README.md) — $9.00 · [buy](https://buy.stripe.com/00w14o06Gdw1eRB9wPawo2j)
 - [Create and sell an Obsidian plugin for automatic Zettelkasten ID generation](products/create-and-sell-an-obsidian-plugin-for-automatic-zettelkaste/README.md) — $12.00 · [buy](https://buy.stripe.com/3cIeVef1A4ZvdNx10jawo2i)
 - [Write and submit a 900-word article on 'LLM Prompt Caching Techniques' to Towards Data Science](products/write-and-submit-a-900-word-article-on-llm-prompt-caching-te/README.md) — $9.00 · [buy](https://buy.stripe.com/eVq28sbPodw17p910jawo2h)
 - [Create and sell a Regex Snippet Pack for Log Analysis](products/create-and-sell-a-regex-snippet-pack-for-log-analysis/README.md) — $12.00 · [buy](https://buy.stripe.com/bJe28saLk4Zv7p9gZhawo2g)
