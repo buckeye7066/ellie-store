@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Whitelabel Prompt Pack for Real Estate Agents](products/whitelabel-prompt-pack-for-real-estate-agents/README.md) — $79.00 · [buy](https://buy.stripe.com/4gM5kE9HgcrXeRB5gzawo2l)
 - [Create and sell a SaaS Metrics Dashboard Template for Google Sheets](products/create-and-sell-a-saas-metrics-dashboard-template-for-google/README.md) — $9.00 · [buy](https://buy.stripe.com/cNifZi7z877DcJt5gzawo2k)
 - [Write and sell Prompt Engineering for Customer Support Chatbots guide](products/write-and-sell-prompt-engineering-for-customer-support-chatb/README.md) — $9.00 · [buy](https://buy.stripe.com/00w14o06Gdw1eRB9wPawo2j)
 - [Create and sell an Obsidian plugin for automatic Zettelkasten ID generation](products/create-and-sell-an-obsidian-plugin-for-automatic-zettelkaste/README.md) — $12.00 · [buy](https://buy.stripe.com/3cIeVef1A4ZvdNx10jawo2i)
