@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Draft and submit a 1200-word Tauri+Svelte desktop app tutorial to dev.to](products/draft-and-submit-a-1200-word-tauri-svelte-desktop-app-tutori/README.md) — $9.00 · [buy](https://buy.stripe.com/6oUcN62eO3Vr4cX9wPawo2n)
 - [Create and sell OKR tracking spreadsheet template](products/create-and-sell-okr-tracking-spreadsheet-template/README.md) — $9.00 · [buy](https://buy.stripe.com/7sY7sM8DcajP4cXdN5awo2m)
 - [Whitelabel Prompt Pack for Real Estate Agents](products/whitelabel-prompt-pack-for-real-estate-agents/README.md) — $79.00 · [buy](https://buy.stripe.com/4gM5kE9HgcrXeRB5gzawo2l)
 - [Create and sell a SaaS Metrics Dashboard Template for Google Sheets](products/create-and-sell-a-saas-metrics-dashboard-template-for-google/README.md) — $9.00 · [buy](https://buy.stripe.com/cNifZi7z877DcJt5gzawo2k)
