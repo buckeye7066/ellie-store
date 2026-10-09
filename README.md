@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Create codebase explainer for fastapi-users](products/create-codebase-explainer-for-fastapi-users/README.md) — $19.00 · [buy](https://buy.stripe.com/00wfZibPogId5h19wPawo25)
 - [Codebase explainer for FastAPI](products/codebase-explainer-for-fastapi/README.md) — $19.00 · [buy](https://buy.stripe.com/bJeaEY2eOajP10LgZhawo24)
 - [Conduct and sell a lightweight security audit of the 'express-validator' npm package](products/conduct-and-sell-a-lightweight-security-audit-of-the-express/README.md) — $79.00 · [buy](https://buy.stripe.com/dRmdRa5r077DaBl38rawo23)
 - [Write a codebase explainer for FlexFactor](products/write-a-codebase-explainer-for-flexfactor/README.md) — $19.00 · [buy](https://buy.stripe.com/eVqdRaf1A77D9xh6kDawo21)
