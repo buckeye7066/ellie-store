@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Survey pack: Preserve cpg-input-description in generated Questionnaire items](products/survey-pack-preserve-cpg-input-description-in-generated-ques/README.md) — $19.00 · [buy](https://buy.stripe.com/4gMdRa9Hg4ZvgZJ38rawo28)
 - [Create a codebase explainer for the FlexFactor repo and sell to maintainer](products/create-a-codebase-explainer-for-the-flexfactor-repo-and-sell/README.md) — $19.00 · [buy](https://buy.stripe.com/eVq00k3iS9fL10L6kDawo27)
 - [Create codebase explainer for tiangolo/fastapi](products/create-codebase-explainer-for-tiangolo-fastapi/README.md) — $19.00 · [buy](https://buy.stripe.com/4gMbJ2f1AcrX38TbEXawo26)
 - [Create codebase explainer for fastapi-users](products/create-codebase-explainer-for-fastapi-users/README.md) — $19.00 · [buy](https://buy.stripe.com/00wfZibPogId5h19wPawo25)
