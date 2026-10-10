@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Build Notion OKR tracker template](products/build-notion-okr-tracker-template/README.md) — $39.00 · [buy](https://buy.stripe.com/9B6fZi8Dc9fL10LcJ1awo2z)
 - [Record and sell a 2-hour video course on Prompt Engineering for Software Engineers](products/record-and-sell-a-2-hour-video-course-on-prompt-engineering-/README.md) — $39.00 · [buy](https://buy.stripe.com/8x23cwf1A2Rn4cX7oHawo2y)
 - [Record FastAPI REST API deployment course](products/record-fastapi-rest-api-deployment-course/README.md) — $39.00 · [buy](https://buy.stripe.com/8x2dRa3iSdw1fVFfVdawo2x)
 - [Create and sell a 30-minute video course on using GitHub Actions for automated data pipeline testing](products/create-and-sell-a-30-minute-video-course-on-using-github-act/README.md) — $39.00 · [buy](https://buy.stripe.com/dRm3cwcTs9fL38T6kDawo2w)
