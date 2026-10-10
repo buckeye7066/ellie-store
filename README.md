@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Record FastAPI REST API deployment course](products/record-fastapi-rest-api-deployment-course/README.md) — $39.00 · [buy](https://buy.stripe.com/8x2dRa3iSdw1fVFfVdawo2x)
 - [Create and sell a 30-minute video course on using GitHub Actions for automated data pipeline testing](products/create-and-sell-a-30-minute-video-course-on-using-github-act/README.md) — $39.00 · [buy](https://buy.stripe.com/dRm3cwcTs9fL38T6kDawo2w)
 - [Create whitelabel Notion template for investor update tracking](products/create-whitelabel-notion-template-for-investor-update-tracki/README.md) — $79.00 · [buy](https://buy.stripe.com/6oU3cw1aK3VrbFpaATawo2v)
 - [Whitelabel Notion freelance income tracker template](products/whitelabel-notion-freelance-income-tracker-template/README.md) — $79.00 · [buy](https://buy.stripe.com/9B6dRa2eO3VrbFp6kDawo2u)
