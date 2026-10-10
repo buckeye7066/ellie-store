@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Whitelabel Notion freelance income tracker template](products/whitelabel-notion-freelance-income-tracker-template/README.md) — $79.00 · [buy](https://buy.stripe.com/9B6dRa2eO3VrbFp6kDawo2u)
 - [Create a whitelabel Notion template for weekly engineering sprint retrospectives](products/create-a-whitelabel-notion-template-for-weekly-engineering-s/README.md) — $79.00 · [buy](https://buy.stripe.com/eVq14o2eO3Vr5h1cJ1awo2t)
 - [Design SaaS Onboarding Satisfaction Survey Kit](products/design-saas-onboarding-satisfaction-survey-kit/README.md) — $19.00 · [buy](https://buy.stripe.com/5kQ5kEg5E9fL24P9wPawo2s)
 - [Assemble and sell daily NOAA weather dataset (CSV)](products/assemble-and-sell-daily-noaa-weather-dataset-csv/README.md) — $59.00 · [buy](https://buy.stripe.com/eVqeVe4mW3Vr7p94cvawo2r)
