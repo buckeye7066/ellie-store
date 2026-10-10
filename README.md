@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Create whitelabel Notion template for investor update tracking](products/create-whitelabel-notion-template-for-investor-update-tracki/README.md) — $79.00 · [buy](https://buy.stripe.com/6oU3cw1aK3VrbFpaATawo2v)
 - [Whitelabel Notion freelance income tracker template](products/whitelabel-notion-freelance-income-tracker-template/README.md) — $79.00 · [buy](https://buy.stripe.com/9B6dRa2eO3VrbFp6kDawo2u)
 - [Create a whitelabel Notion template for weekly engineering sprint retrospectives](products/create-a-whitelabel-notion-template-for-weekly-engineering-s/README.md) — $79.00 · [buy](https://buy.stripe.com/eVq14o2eO3Vr5h1cJ1awo2t)
 - [Design SaaS Onboarding Satisfaction Survey Kit](products/design-saas-onboarding-satisfaction-survey-kit/README.md) — $19.00 · [buy](https://buy.stripe.com/5kQ5kEg5E9fL24P9wPawo2s)
