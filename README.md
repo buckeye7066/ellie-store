@@ -4,6 +4,7 @@ Finished packs, templates, datasets and guides, each with a preview of the real 
 
 ## Products
 
+- [Record and sell a 2-hour video course on Prompt Engineering for Software Engineers](products/record-and-sell-a-2-hour-video-course-on-prompt-engineering-/README.md) — $39.00 · [buy](https://buy.stripe.com/8x23cwf1A2Rn4cX7oHawo2y)
 - [Record FastAPI REST API deployment course](products/record-fastapi-rest-api-deployment-course/README.md) — $39.00 · [buy](https://buy.stripe.com/8x2dRa3iSdw1fVFfVdawo2x)
 - [Create and sell a 30-minute video course on using GitHub Actions for automated data pipeline testing](products/create-and-sell-a-30-minute-video-course-on-using-github-act/README.md) — $39.00 · [buy](https://buy.stripe.com/dRm3cwcTs9fL38T6kDawo2w)
 - [Create whitelabel Notion template for investor update tracking](products/create-whitelabel-notion-template-for-investor-update-tracki/README.md) — $79.00 · [buy](https://buy.stripe.com/6oU3cw1aK3VrbFpaATawo2v)
